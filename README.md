@@ -27,9 +27,8 @@ Two files can be downloaded:
   - ... and other files derived from these three (the notebooks can recreate them) that results are obtained from.
 - `results.zip` (this corresponds to the `results` folder created when running notebooks).
 
-Once downloaded, place the unzipped `data` folder in the `src/DILI-negative-oversampling` folder.
-
-Placing the unzipped `results` folder in the `src/DILI-negative-oversampling` folder, will result in the same as running all notebooks.
+Once downloaded, place the unzipped `data` and `results` folder in the `src/DILI-negative-oversampling` folder.
+Running notebooks will replace the content in the `results` folder.
 
 ### Running notebooks
 
